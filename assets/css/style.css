@@ -1,0 +1,25 @@
+.center{
+	margin: 0 auto;
+}
+
+.icon-w{
+	float: left;
+	position: relative;
+	margin-left: 15px;
+}
+
+.icon-w i{
+font-size: 70px;
+}
+
+#meps
+{
+	height: 379px;
+    background: #eeeeee;
+    border-radius: 3px;
+}
+
+.i-m i
+{
+	margin-left: 10px;
+}
